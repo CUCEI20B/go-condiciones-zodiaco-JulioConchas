@@ -9,6 +9,8 @@ func main()  {
     fmt.Scanln(&dia)
     fmt.Scanln(&mes)
 
+	// prueba 04
+	
     if ( dia >= 21 && mes == 3 )||( dia <= 20 && mes == 4 ) {
         fmt.Println("aries")
     } else if ( dia >= 21 && mes == 4 )||( dia <= 20 && mes == 5 ) {
