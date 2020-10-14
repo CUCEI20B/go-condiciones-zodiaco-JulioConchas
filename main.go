@@ -20,7 +20,7 @@ func main()  {
     } else if ( dia >= 23 && mes == 7 )||( dia <= 22 && mes == 8 ) {
         fmt.Println("leo")
     } else if ( dia >= 23 && mes == 8 )||( dia <= 22 && mes == 9 ) {
-        fmt.Println("viergo")
+        fmt.Println("virgo")
     } else if ( dia >= 23 && mes == 9 )||( dia <= 22 && mes == 10 ) {
         fmt.Println("libra")
     } else if ( dia >= 23 && mes == 10 )||( dia <= 22 && mes == 11 ) {
